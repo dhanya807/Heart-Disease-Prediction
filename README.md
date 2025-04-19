@@ -51,7 +51,7 @@ You can install the required libraries using:
 pip install -r requirements.txt
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
